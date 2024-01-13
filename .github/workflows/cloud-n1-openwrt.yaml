@@ -9,7 +9,7 @@ on:
       - 'script.sh'
       - 'config.sh'
   schedule:
-    - cron: 26 11 * * *
+    - cron: 30 03 * * *
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
